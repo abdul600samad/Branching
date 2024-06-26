@@ -1,1 +1,2 @@
 This is seventh file in main.
+I am editing this file in log-system.
