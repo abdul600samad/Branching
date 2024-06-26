@@ -1,2 +1,1 @@
 This is second text file.
-This will be undo.
